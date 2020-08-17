@@ -1,10 +1,11 @@
 ### JDBC Team Project:
-   In Workbench:
-      Create a table that stores your Employee from the first team project
-      Create an address table that stores address information
-      Create a Department table that stores Department information
-      An Employee has a Department and an Address (work on Department first, Address optional)
-   In Java
+   #### In Workbench:
+     -  Create a table that stores your Employee from the first team project
+     -  Create an address table that stores address information
+     -  Create a Department table that stores Department information
+     -  An Employee has a Department and an Address (work on Department first, Address optional)
+  
+  #### In Java
       Create Models for Employee, Department and Address
       Create DAO interfaces for Employee, Department, and Address
       Create DAO Classes that implement those interfaces
